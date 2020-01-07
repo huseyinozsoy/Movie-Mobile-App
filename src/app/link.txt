@@ -1,0 +1,9 @@
+https://www.freecodecamp.org/news/how-to-build-your-first-ionic-4-app-with-api-calls-f6ea747dc17a/
+
+Here is your key: 8a18c52a
+
+Please append it to all of your API requests,
+
+OMDb API: http://www.omdbapi.com/?i=tt3896198&apikey=8a18c52a
+
+https://www.youtube.com/watch?v=n9aIm1xeiZM
